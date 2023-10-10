@@ -1,6 +1,6 @@
 //
 //  RegistrationTableViewController.swift
-//  HotelManzana
+//  Hotel Manzana
 //
 //  Created by Ibrahim Syed on 2023-10-10.
 //
